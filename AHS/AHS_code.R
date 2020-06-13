@@ -8,19 +8,20 @@
 source('bppr.R')
 
 ### load data files ###
-comLag    <- readRDS('comLag.RData')
-legLag    <- readRDS('legLag.RData')
-zooLag    <- readRDS('zooLag.RData')
-labLag    <- readRDS('labLag.RData')
-survLag   <- readRDS('survLag.RData')
-hrLag     <- readRDS('hrLag.RData')
-prepLag   <- readRDS('prepLag.RData')
-riskLag   <- readRDS('riskLag.RData')
-eresLag   <- readRDS('eresLag.RData')
-coorLag   <- readRDS('coorLag.RData')
-amrLag    <- readRDS('amrLag.RData')
-foodLag   <- readRDS('foodLag.RData')
-bioLag    <- readRDS('bioLag.RData')
+# edit file path accordingly #
+comLag    <- readRDS('./Data/comLag.RData')
+legLag    <- readRDS('./Data/legLag.RData')
+zooLag    <- readRDS('./Data/zooLag.RData')
+labLag    <- readRDS('./Data/labLag.RData')
+survLag   <- readRDS('./Data/survLag.RData')
+hrLag     <- readRDS('./Data/hrLag.RData')
+prepLag   <- readRDS('./Data/prepLag.RData')
+riskLag   <- readRDS('./Data/riskLag.RData')
+eresLag   <- readRDS('./Data/eresLag.RData')
+coorLag   <- readRDS('./Data/coorLag.RData')
+amrLag    <- readRDS('./Data/amrLag.RData')
+foodLag   <- readRDS('./Data/foodLag.RData')
+bioLag    <- readRDS('./Data/bioLag.RData')
 
 
 ##### overall capacity score #####

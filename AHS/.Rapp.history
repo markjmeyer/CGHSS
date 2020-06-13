@@ -1,0 +1,5 @@
+getwd()
+comLag    <- readRDS('~/comLag.RData')
+comLag    <- readRDS('~/Data/comLag.RData')
+comLag    <- readRDS('./Data/comLag.RData')
+head(comLag)
