@@ -1,5 +1,5 @@
 # CGHSS
-Code for my work with the Georgetown Center for Global Health Science and Security. Different folders correspond to different manuscripts.
+Code for my work with the Georgetown Center for Global Health Science and Security. Each folder corresponds to different manuscripts according the descriptions below.
 
 # AHS
 
